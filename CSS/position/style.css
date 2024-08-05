@@ -1,0 +1,23 @@
+.container{
+    width:150;
+    height:150px;
+    background-color: gainsboro;
+    margin:100px;
+}
+.box{ 
+    width:50;
+    height:50px;
+}
+.red{
+    background-color: red;
+    top:50px;
+}
+.blue{
+      background-color: blue;
+}
+.green{
+  background-color: green;
+}
+.purple{
+    background-color: purple;
+}

@@ -1,0 +1,13 @@
+p{
+    /* height:100px; */
+    /* weight:50px; */
+    border: 2px solid red;
+    
+    /* overflow: visible;
+    overflow:hidden; */
+     /* overflow: scroll; */
+    overflow: auto; 
+}
+.img1{
+    float:left;
+}

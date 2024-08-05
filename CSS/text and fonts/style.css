@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+div{
+    height:100px;
+    width: 100px;
+    display:inline-block;
+    border:2px solid black;
+}
+#container{
+    height:600px;
+    width:400px;
+    display: flex;
+    flex-wrap: wrap;
+      align-items: center;
+
+}
+#box1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+#box2{
+    background-color: rgba(0, 255, 0, 0.5);
+    height:200px;
+}
+#box3{
+    background-color: rgba(0, 0, 255, 0.5);
+    height:75px;
+}
+#box4{
+    background-color: rgba(100, 50, 200, 0.5);
+    
+}
+#box5{
+    background-color: rgba(150, 100, 30, 0.5);
+}

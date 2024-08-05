@@ -1,0 +1,98 @@
+/* for p1 ques  */
+/* #Box{
+    background-color: blue;
+}
+  h1{
+    background-color: aquamarine;
+    color:red;
+}
+  .HEADING{
+     color: red;
+}
+button{
+    background-color: green;
+    height:50px;
+    width: 50px;
+}  */
+/* for p2 ques */
+/* *{
+    font-family: 'Times New Roman';
+ }
+ 
+ h1{
+    text-align:center;
+    text-transform: capitalize;
+ }
+ p{
+     text-align: left;
+     font-weight: normal;
+      line-height: 20px;
+ }
+ #outer{
+    font-size:25px;
+ }
+ #inner{
+    font-size:10px;
+ }
+ span{
+     font-weight: 400;
+ } */
+
+
+ /* div{
+    height:100px;
+    width:100px;
+    background-color:  teal;
+    border-radius: 50%;
+ } */
+ /* #h1{
+    height: 300px;
+    width:100px;
+    background-color: red;
+ }
+ #h2{
+    height: 300px;
+    width:100px;
+    background-color: yellow;
+ }
+ #h3{
+    height: 300px;
+    width:100px;
+    background-color:  green;
+ } */
+ 
+ .header{
+   height:60px;
+   background-color: black;
+   color:white;
+ }
+ p{
+   color:yellow;
+   font-size:medium;
+   display: inline;
+   margin-right: 60px;
+ }
+  a{
+   text-transform: capitalize;
+   margin-right: 60px;
+   font-size:20px;
+   text-decoration: none;
+  }
+  button{
+   background-color: yellow;
+  }
+  .contentBox{
+   margin:10px;
+   height:100px;
+   width:100px;
+   border: 2px solid black;
+   display:inline-block;
+  }
+  #content{
+   height:500px;
+  }
+  footer{
+   background-color: black;
+   color:white;
+   height:50px;
+  }

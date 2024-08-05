@@ -1,0 +1,17 @@
+div{
+    height:300px;
+    width:500px;
+   margin:40px;
+    padding:40px;
+   background-color: pink;
+}
+h1{
+    height:300px;
+    width:500px;
+    background-color:teal;
+    text-align:center;
+    text-transform: capitalize;
+    margin:40px;
+    padding:40px;
+    
+}
